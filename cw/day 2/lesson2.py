@@ -18,5 +18,18 @@ Is_ugly = False   #snakecase (ubralod weris stili standartulad)
 
 isUgly = False #javascriptuli  camelcase
 
-print(name + " " + surname)
-print(name + age )
+print(name + "" "" + surname)
+
+
+#stringi aris brwyalebshi moqceuli simboloebi
+
+
+print(type(age))
+print(type(name))
+print(type(surname))
+print(type(height))
+print(type(knows_programming))
+
+print (name + " " + str (age))
+
+print ("me var jaba chemi gvaria begiashvili var 17 wlis")
