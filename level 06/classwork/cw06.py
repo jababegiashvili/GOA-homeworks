@@ -1,7 +1,7 @@
-name=input("ra aris sheni saxeli :")
-print("sheni saxelia" + name)
+name = input("ra aris sheni saxeli?:chemi saxelia nika ")
 
-surname= input("ra ris sheni gvari : ")
+surname = input("ra aris sheni gvari?:chemi gvaria nikadze ")
 
-print("sheni gvaria" + surname)
+print(name + surname)
+
 
