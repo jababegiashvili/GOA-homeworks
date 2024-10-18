@@ -25,11 +25,11 @@ population = 2500
 print("----------------------")
 # ,, *, **, /, //, %
 # population = 2500 
-print(population 500) 
+print("population 500") 
 print(population + 500)  
-print(population 500)  
+print("population 500")  
 print( population ** 1) 
 print(population / 500) #/ float 
 print(population // 500 )# // int 
-print("დავით " + "დავით" ) # concatination სტრინგების შეერთებას ჰქვია კონკატინაცია. <3 67°F 
+print("jaba " + "jaba" ) # concatination სტრინგების შეერთებას ჰქვია კონკატინაცია. <3 67°F 
 #print(population % 500)
