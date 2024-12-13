@@ -1,0 +1,6 @@
+info=input("sheni saxeli da gvari:"  )
+info2=input("sheni mshoblis saxeli da gvari:" )
+info3=input("sheni sayvareli feri:")
+info4=input("sheni sayvareli manqana:")
+info=input("sheni 3 sayvareli hobi:")
+print(info,  info2, info3, info4)

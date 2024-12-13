@@ -1,0 +1,28 @@
+.my-fonts{
+    font-family:sans-serif;
+    font-size: large;
+    font-weight: 900;
+    
+    text-decoration: underline;
+    color: black;
+}
+
+.we{ 
+    background-color: yellow;
+}
+
+
+.dam{ text-align: center;
+    
+
+}
+
+.text{
+    color: rgb(183, 104, 13);
+}
+
+
+.fonts{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium; 
+}
