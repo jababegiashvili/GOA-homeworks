@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    margin-left: 40px;
+    list-style-type: armenian;
+    list-style-position: inside;
+    list-style-image: url(bolt_16dp_E8EAED_FILL0_wght400_GRAD0_opsz20.svg);
+}

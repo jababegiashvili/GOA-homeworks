@@ -1,0 +1,59 @@
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+
+font-family: cursive;
+padding: 10px; }
+#link:link {
+color: black;
+}
+#visited:visited {
+color: aquamarine
+}
+#active:active{
+
+color: rgb(255, 0, 0);}
+#hover:hover{
+color: rgb(0, 255, 0);
+text-decoration: underline;
+}
+a{
+text-decoration: none;
+}
+table{
+border-collapse: collapse;
+width: 100%;
+}
+th{
+text-align: start;
+}
+/* tr:first-child{
+}
+background-color: rgb(0, 144, 24);
+color: white;
+tr:last-child{
+background-color: rgb(0, 144, 24); color: white;
+/*
+n_ით აკეთებს ნაზიჯებს step
+odd კენტი ელემეტები
+even: ლუწი ელემეტები
+*/
+tr:nth-child(even){
+
+background-color: rgb(116, 247, 138);
+color: white;}
+tr:nth-child(odd){
+
+background-color: rgb(35, 209, 64);
+color: white;}
+tr:nth-child(ln){
+
+border-bottom: 1px solid black;}
+tr:first-child{
+background-color: rgb(18, 187, 243); color: rgba(1, 22, 27, 0.627);
+}
