@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image:url(./image.png) ;
+    background-size: cover;
+    color:tan
+
+}
+.text{
+    color: tan;
+    text-align: right;
+}
+
+.text-container{
+    background-image:url(./image\ copy.png);
+    background-size: cover;
+    background-position: -50px 0px;
+    background-repeat: no-repeat;
+    width: 200px;
+    height: 200px;
+    text-align: right;
+    border-radius: 50%;
+    border: 4px solid black;
+    color: tan;
+}
+
+
+ul{
+    margin-left: 40px;
+    list-style-type: armenian;
+    list-style-position: inside;
+    list-style-image: url(bolt_16dp_E8EAED_FILL0_wght400_GRAD0_opsz20.svg);
+    list-style-type: armenian;
+    text-decoration: dashed
+}

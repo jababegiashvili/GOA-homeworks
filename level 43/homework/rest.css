@@ -29,10 +29,16 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
+	border: 10px green;
+	background-image:url(download.jpg);
+	background-size: cover;
 	line-height: 1;
-    display: flex;
+    display: flex ;
     justify-content: center;
-    align-items: center;
+    align-items: center
+
+
+	
 
 }
 ol, ul {
